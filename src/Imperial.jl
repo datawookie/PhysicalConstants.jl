@@ -1,3 +1,5 @@
+__precompile__()
+
 module Imperial
-    GravAccel = 32.174049;                                  # m / s^2 
+const GravAccel = 32.174049;                                  # m / s^2 
 end
