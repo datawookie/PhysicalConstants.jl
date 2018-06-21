@@ -1,3 +1,5 @@
+__precompile__()
+
 module PhysicalConstants
     include("CGS.jl")
     include("Imperial.jl")
